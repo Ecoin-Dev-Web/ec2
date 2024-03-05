@@ -1,0 +1,35 @@
+
+
+.container{
+  width: 600px;  
+  height: 300px;
+  background-color: #8f5c5c;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.product {
+    width: 100px;
+    height: 100px;
+}
+
+.product img{
+    width: 100%;
+}
+.bg1{background-color: #9b59b6;}
+.bg2{background-color: #f1c40f;}
+.bg3{background-color: #3498db;}
+.bg4{background-color: #1abc9c;}
+
+/* .ddd{
+    background-image: url();
+    position: ;
+    margin: ;
+    padding: ;
+    border: ;
+    border-radius: ;
+    z-index
+} */
